@@ -1,0 +1,23 @@
+.container{
+    width: 374px;
+    height: 400px;
+    background-color: dimgrey;
+    border-radius: 10px;
+    margin: 120px auto;
+}
+#vtc{
+    margin-left: 50px;
+    color: white;
+}
+
+#pep{
+    margin-left: 10px;
+    color: white;
+}
+
+.container .icon{
+    padding-top: 30px;
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+}
